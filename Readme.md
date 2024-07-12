@@ -1,0 +1,1 @@
+# Creating a Razorpay clone app involves building a comprehensive payment gateway system that facilitates smooth and secure transactions between customers and dealers.User Registration and Authentication,Wallet Integration,Multiple Payment Methods ,Transaction History ,Payment Notifications ,Refunds and Disputes and different types of facilites available.
